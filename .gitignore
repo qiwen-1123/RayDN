@@ -1,0 +1,6 @@
+data/
+wandb/
+work_dirs/
+test/
+
+**/__pycache__/
